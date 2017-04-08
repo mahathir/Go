@@ -1,0 +1,9 @@
+{
+	"config": "development",
+	"production": {
+		"mongoconn": "mongodb://localhost"
+	},
+	"development": {
+		"mongoconn": "mongodb://localhost"
+	}
+}
